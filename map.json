@@ -23,9 +23,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"exitSceneUrl",
+                 "name":"openWebsite",
                  "type":"string",
-                 "openWebsite":"https://missionme.whereby.com/halbleer"
+                 "value":"https://missionme.whereby.com/halbleer"
                 }],
          "type":"tilelayer",
          "visible":true,
