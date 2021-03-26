@@ -25,7 +25,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"..\/Floor1\/floor1.json"
+                 "openWebsite":"https://missionme.whereby.com/halbleer"
                 }],
          "type":"tilelayer",
          "visible":true,
