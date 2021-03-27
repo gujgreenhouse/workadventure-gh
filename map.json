@@ -44,6 +44,12 @@
          "id":21,
          "name":"action_exit_greenhouse_base",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"exitUrl",
+                 "type":"string",
+                 "value":"greenhouse_base.json"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":46,
