@@ -1,2 +1,3 @@
 *.tiled-project
 *.tiled-session
+.DS_Store
